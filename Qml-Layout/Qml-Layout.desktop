@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Qml-Layout
+Exec=qmlscene %U Qml-Layout/Main.qml
+Icon=Qml-Layout/Qml-Layout.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

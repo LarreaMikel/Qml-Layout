@@ -1,0 +1,17 @@
+{
+    "name": "qml-layout.larreamikel",
+    "description": "description of Qml-Layout",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Qml-Layout",
+    "hooks": {
+        "Qml-Layout": {
+            "apparmor": "Qml-Layout/Qml-Layout.apparmor",
+            "desktop":  "Qml-Layout/Qml-Layout.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Mikel Larrea <developer@larreamikel.com>",
+    "framework" : "ubuntu-sdk-15.04.6"
+}
+
+
